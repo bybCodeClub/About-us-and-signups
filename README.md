@@ -1,7 +1,7 @@
 # Become-a-member
 bybcc or the be your best code club is a opensource community initiative to create a high quality envrinment which facilitates learning and growth. Browse our repos for cs/programming, maths and science materials as well as recomended book lists. Happy learning and please feel free to contribute to this initiative.
 
-To become a member of bybcc just add your username to this file and you will be invited shortly.
+To become a member of bybcc fork the repo and just add your username to this file and you will be invited shortly.
 
 Members
 - ifroghop2worlds
