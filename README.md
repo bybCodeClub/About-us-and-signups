@@ -1,2 +1,7 @@
 # Become-a-member
-go here and follow read me to join the club
+
+To become a member of bybcc just add your username to this file and you will be shortly invited.
+
+Members
+- ifroghop2worlds
+-
